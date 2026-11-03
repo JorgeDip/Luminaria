@@ -14,14 +14,14 @@ Plataforma web de lectura online para webnovels, manga y novelas traducidas, ori
 
 ## Stack tecnológico
 
-| Capa | Tecnologías |
-|---|---|
-| Backend | Java, Spring Boot, Spring Security, JPA/Hibernate |
-| Frontend | React, Tailwind CSS, Jest |
-| Motor de IA | Python, Pandas, TensorFlow / Scikit-learn, FastAPI o Flask |
-| Base de datos | PostgreSQL |
-| Caché | Redis |
-| Infraestructura | Docker, Kubernetes, AWS (EKS, CloudFront, CloudWatch) |
+| Capa            | Tecnologías                                                |
+| --------------- | ---------------------------------------------------------- |
+| Backend         | Java, Spring Boot, Spring Security, JPA/Hibernate          |
+| Frontend        | React, Tailwind CSS, Jest                                  |
+| Motor de IA     | Python, Pandas, TensorFlow / Scikit-learn, FastAPI o Flask |
+| Base de datos   | PostgreSQL                                                 |
+| Caché           | Redis                                                      |
+| Infraestructura | Docker, Kubernetes, AWS (EKS, CloudFront, CloudWatch)      |
 
 ## Estructura del repositorio
 
@@ -49,8 +49,8 @@ plataforma-novelas/
 1. Clonar el repositorio:
 
    ```bash
-   git clone https://github.com/<organizacion>/plataforma-novelas.git
-   cd plataforma-novelas
+   git clone https://github.com/JorgeDip/Luminaria.git
+   cd luminaria
    ```
 
 2. Levantar PostgreSQL y Redis con Docker:
